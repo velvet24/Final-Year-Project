@@ -1,4 +1,4 @@
-# Final Year Project
+# First Person Puzzle Game
 
 A first-person 3D puzzle game built in **Unreal Engine 5**. Players bend space, flip gravity, and warp object scale to navigate a dream world.
 
